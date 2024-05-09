@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "599825906813",
+    "project_id": "harmoni-farm-houseclient",
+    "storage_bucket": "harmoni-farm-houseclient.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599825906813:android:272849c4ec48df18578514",
+        "android_client_info": {
+          "package_name": "com.hgi.harmonifarmhouse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAin1v4-8Vc1DLBK-lCqsiFMOzwhGIolDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599825906813:android:63dd6ac075770f0a578514",
+        "android_client_info": {
+          "package_name": "com.hgi.harmonifarmhouseadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAin1v4-8Vc1DLBK-lCqsiFMOzwhGIolDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
